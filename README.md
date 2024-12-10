@@ -1,7 +1,7 @@
-- 👋 Hi, I’m React.js Developer
-- 👀 I’m interested in Creating Responsive and interactive Web Applications ...
-- 🌱 I’m currently learning next.js ...
-- 💞️ I’m looking to be a Full-stack developer.
+Hi, I’m a React.js Developer!
+👀 I’m interested in creating responsive and interactive web applications.
+🌱 I’m currently learning Next.js to expand my skills.
+💞️ I’m aiming to become a Full-stack Developer.
 
   
 (❁´◡`❁)SKILLS
