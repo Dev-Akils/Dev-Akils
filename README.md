@@ -6,12 +6,17 @@ Hi, I’m a React.js Developer!
   
 (❁´◡`❁)SKILLS
  
- Frontend Development
+Frontend Development
 * HTML/HTML5
 * CSS / SASS
 * Bootstrap/Material UI
 * JavaScript / ES6
+* Typescript
 * React.js
+  
+Backend Development
+* node
+* Express
   
 LANGUAGES
 
