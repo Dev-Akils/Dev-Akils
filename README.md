@@ -8,11 +8,12 @@ Hi, I’m a React.js Developer!
  
 Frontend Development
 * HTML/HTML5
-* CSS / SASS
-* Bootstrap/Material UI
+* CSS3 / SASS
+* Tailwindcss/Bootstrap/Material UI
 * JavaScript / ES6
 * Typescript
 * React.js
+* Redux for state management.
   
 Backend Development
 * node
