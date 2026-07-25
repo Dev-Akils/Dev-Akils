@@ -1,7 +1,7 @@
-Hi, I’m a React.js Developer!
-👀 I’m interested in creating responsive and interactive web applications.
+   I’m a Full Stack Developer!!!
+👀 Goal is Big Bro... Not for Money But For My soul...
 🌱 I’m currently learning Next.js to expand my skills.
-💞️ I’m aiming to become a Full-stack Developer.
+💞️ processing...Imperfect to Perfect
 
   
 (❁´◡`❁)SKILLS
@@ -17,7 +17,7 @@ Frontend Development
   
 Backend Development
 * node
-* Express
+* Express js
   
 LANGUAGES
 
@@ -37,12 +37,12 @@ HOBBIES
 
 👨‍💻 Doing personal projects
 
-🎁 Other Skills
+🎁 Do whatever you like the most .... Not For Money But for your Journey 
 
-* Pencil Drawing
+* Artist
 * Craft Work
 * Video Editing
-* Designing Clothes
+* Fashion Designing & Beautician
 * Photography
 
 
